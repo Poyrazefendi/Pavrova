@@ -1,6 +1,6 @@
 const bannerUrl = "https://i.ibb.co/YFtWX8dw/MG-3271.jpg";
 const profileUrl = "https://i.ibb.co/rYZP5gb/EAF173-AC-20-E7-4-AEF-827-D-6-A09-EC59-D321.png";
-const faviconUrl = "https://i.ibb.co/NgpfZbcX/4-ECB3532-69-C8-446-E-8470-FF48-CE15120-D.png";
+const faviconUrl = "https://i.ibb.co/TBCszGGv/MG-3406.jpg";
 const displayName = "Pavrova";
 const description = "Sessizce İçeri";
 
